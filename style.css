@@ -1,0 +1,38 @@
+body{background-color: #D7C7EB;}
+h1{color:#9C85D6;
+font-family: Garamond;
+font-size: 40px;
+text-align: center;
+margin: 50px;
+padding: 20px;
+}
+
+
+p{color: #8769D4;
+font-family: Garamond;
+font-size: 30px;
+}
+
+
+{
+	text-decoration: none;
+	color: #EEF0FF;
+	font-family: PAPYRUD;
+	font-size:20px ;
+}
+
+a:hover{color: #EEF0FF;}
+
+ul{list-styke-type:none}
+
+
+
+}
+
+li{
+	display:inline;
+	padding:10px;
+	border-color #EEF0FF; 
+	border-style: dotted;
+	background-color:#9C85D6 ;
+}
